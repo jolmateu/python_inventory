@@ -1,5 +1,6 @@
 from inventory import Inventory
 
+""" Display options menu """
 def menu():
     print("\nWelcome to the Inventory System")
     print("1. Add Item")
@@ -11,8 +12,11 @@ def menu():
     return input("Select an option: ")
 
 if __name__ == "__main__":
+
+    """ Create an Inventory instance """
     inventory = Inventory()
 
+    """ Loop for options menu """
     while True:
         option = menu()
 
