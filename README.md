@@ -1,8 +1,8 @@
 # Overview
-This is an example of an application developed in python that allows you to add, delete, update or display an inventory, it has a selection menu to perform each function.
+This is an example of an application developed in python that allows you to add, delete, update or display an inventory, it has a selection menu to perform each function and use dictionary to temporarily store inventory information.
 
 You can see the example demo video
-[Software Demo Video](https://youtu.be/XIeNSlzBfBM)
+[Software Demo Video](https://youtu.be/5Zsjh6zh6D8)
 
 # Development Environment
 
